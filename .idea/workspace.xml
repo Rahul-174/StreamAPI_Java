@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e31242e-33f7-45c1-a930-2707b6004a6f" name="Changes" comment="Functional Interface, LambdaExpressions,&#10;Streams : &#10;   (IntermediateOperations -&gt; Filtering,Mapping Operations)">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Streams/Collectors/CollectionOperations/CollectionOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Streams/immutabaleOperations/ReductionOperations.java" afterDir="false" />
+    <list default="true" id="1e31242e-33f7-45c1-a930-2707b6004a6f" name="Changes" comment="Reduction Operations,&#10;Colletor Operations,">
+      <change afterPath="$PROJECT_DIR$/src/com/Streams/Collectors/AggregationOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Streams/Optional/OptionalStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Streams/Optional/OptionalStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Streams/TerminalOperations/FindingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Streams/TerminalOperations/FindingOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Streams/TerminalOperations/MatchingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Streams/TerminalOperations/MatchingOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Streams/Collectors/CollectionOperations/CollectionOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Streams/Collectors/CollectionOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668243402967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reduction Operations,&#10;Colletor Operations,">
+      <created>1668530939442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668530939442</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Functional Interface, LambdaExpressions,&#10;Streams : &#10;   (IntermediateOperations -&gt; Filtering,Mapping Operations)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional Interface, LambdaExpressions,&#10;Streams : &#10;   (IntermediateOperations -&gt; Filtering,Mapping Operations)" />
+    <MESSAGE value="Reduction Operations,&#10;Colletor Operations," />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduction Operations,&#10;Colletor Operations," />
   </component>
 </project>
