@@ -6,6 +6,7 @@ import java.util.Optional;
 
 public class OptionalStream {
 
+    //It is called Wrapper class
         Map<Integer, Person1>personMap =new HashMap<>();
 
         public Optional<Person1> getPerson(Integer personId){
